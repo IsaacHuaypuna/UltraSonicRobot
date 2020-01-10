@@ -7,7 +7,7 @@
 ## The planning
 When me and my partner got this assighnment it didn't take us long to think of a upside down driving flip car. The designe of the interior was pretty simple. 4 servos spinning the tires, battery powers the Arduino and the Arduino will have the program to make the sensor and servos work. Simple right? WRONG! The designe was pretty complicated but simple at the same time. The way the car looks affects the way on how the interior will look. I thought of a WW1 british tank would be cool but were would the tires go? An F1 car but it wouldn't realy look like an F1 without all of the spoilers. But eventually we turned our heads to just a simple look. A small look a like car with big wheeels. And that was it our car designe.
 
-(adding a picture here later)
+(adding a picture here later of an RC car)
 
 ## The Coding
 We had three main gaols. Working interior, code, and simple but fast car shell. The coding was a lot more simple than we thought. We thought that the car shell and wiring would be quick but the coding was the first thing we finished between the three. We were surprised about how quick it was.
@@ -62,5 +62,11 @@ void ultra() {
   distance = duration * 0.034 / 2;
 }
 
+## Wiring
+Wiring was in our mines hard but in reality it was easy, well with the right technology it was easy. The coding was the second thing we finished for the flip car. Choosing what we want and need for the wiring was a little difficult but we managed to find out what we need and don't.Before we started on the wiring we need a general idea on how to make four servos work at the same time. So we wnet on the web and found some pictures from the CHS wiki page or whatever it's called about what were looking for. A wiring that has four servos and a UltraSonic sensor working. This was just what we needed. This was the picture we found.
 
+(Picture of wiring that we found.)
 
+Our wiring was somewhat similar to this. This is a picture of our wiring.
+
+(picture of our wiring)
