@@ -77,3 +77,5 @@ The shell was the one thing we thought would be easy but actually its the hardes
 (image of a WWI british tank)
 (image of F1 Car)
 (image of 1988 Monte Carlo)
+
+The making of the car has been delayed cause my partner isn't here and he has a pice of the car interior that I don't have and I don't know what it looks like. Only my partner has it in his computer. So until my partner comes back and sends me the part he made for the interior I can't really work on the interior or the shell of the car unless I use some guess work and it could make my partners part useless or the part I made useless 
